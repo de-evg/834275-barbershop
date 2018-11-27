@@ -184,3 +184,19 @@ a {
 .restore:focus {
 	text-decoration: none;
 }
+
+.breadcrumbs {
+  list-style: none;
+}
+
+.breadcrumbs a {
+  color: #000000;
+}
+
+.breadcrumbs-current {
+  color: #aba9a7;
+}
+
+.catalog-item-photos {
+  list-style: none;
+
